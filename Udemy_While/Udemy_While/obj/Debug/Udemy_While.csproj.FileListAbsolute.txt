@@ -1,0 +1,11 @@
+D:\C# N.Y\Udemy_While\Udemy_While\bin\Debug\Udemy_While.exe.config
+D:\C# N.Y\Udemy_While\Udemy_While\bin\Debug\Udemy_While.exe
+D:\C# N.Y\Udemy_While\Udemy_While\bin\Debug\Udemy_While.pdb
+D:\C# N.Y\Udemy_While\Udemy_While\obj\Debug\Udemy_While.csproj.AssemblyReference.cache
+D:\C# N.Y\Udemy_While\Udemy_While\obj\Debug\Udemy_While.csproj.SuggestedBindingRedirects.cache
+D:\C# N.Y\Udemy_While\Udemy_While\obj\Debug\Udemy_While.Form1.resources
+D:\C# N.Y\Udemy_While\Udemy_While\obj\Debug\Udemy_While.Properties.Resources.resources
+D:\C# N.Y\Udemy_While\Udemy_While\obj\Debug\Udemy_While.csproj.GenerateResource.cache
+D:\C# N.Y\Udemy_While\Udemy_While\obj\Debug\Udemy_While.csproj.CoreCompileInputs.cache
+D:\C# N.Y\Udemy_While\Udemy_While\obj\Debug\Udemy_While.exe
+D:\C# N.Y\Udemy_While\Udemy_While\obj\Debug\Udemy_While.pdb
